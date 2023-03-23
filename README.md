@@ -38,7 +38,7 @@ REST-приложение на JAVA предназначенное для орг
 
 ## Запуск приложения
 
-* Поднять БД - docker
+* Поднять БД - docker-compose.yaml
 ```yaml
 version: '3'
 services:
