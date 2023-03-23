@@ -38,7 +38,20 @@ REST-приложение на JAVA предназначенное для орг
 
 ## Запуск приложения
 
-* How/where to download your program
+* Поднять БД - docker
+```yaml
+version: '3'
+services:
+  database-postgres:
+    image: postgres:14.7
+    ports:
+      - "5432:5432"
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+ ```
+
 * Any modifications needed to be made to files/folders
 
 ## Executing program
