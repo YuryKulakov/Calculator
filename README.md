@@ -8,7 +8,8 @@ REST-приложение на JAVA предназначенное для орг
 
 #### База Данных
 
-![Alt text](../../Desktop/%D0%91%D0%94.jpg)
+[README.md](https://github.com/YuryKulakov/Calculator/files/11053719/README.md)
+
 
 #### Клиенты могут:
 
