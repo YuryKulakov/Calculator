@@ -38,6 +38,7 @@ REST-приложение на JAVA предназначенное для орг
 
 ## Запуск приложения
 
+*
 * Поднять БД - docker-compose.yaml
 ```yaml
 version: '3'
@@ -52,7 +53,7 @@ services:
       POSTGRES_PASSWORD: postgres
  ```
 
-* Any modifications needed to be made to files/folders
+* Запустить приложение
 
 ## Executing program
 
