@@ -8,7 +8,7 @@ REST-приложение на JAVA предназначенное для орг
 
 #### База Данных
 
-![БД](https://user-images.githubusercontent.com/77917592/227283748-40c6948f-994a-4c74-b8a1-97ed0994cabb.jpg)
+![image](https://user-images.githubusercontent.com/77917592/227549331-53dd3c6d-e309-4945-88f8-8d950625b795.png)
 
 
 #### Клиенты могут:
