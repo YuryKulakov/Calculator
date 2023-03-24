@@ -57,9 +57,9 @@ services:
 * Создать таблицы с помощью скриптов миграции
 * В классе BankappApplication запустить соответствующий main метод.
 
-## Executing program
+## Creators
 
-* How to run the program
+* [How to run the program](https://t.me/lucotiel)
 * Step-by-step bullets
 ```
 code blocks for commands
