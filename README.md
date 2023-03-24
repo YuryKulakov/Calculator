@@ -42,30 +42,5 @@ REST-приложение на JAVA предназначенное для орг
 
 * Склонировать репозиторий и открыть его в IntelliJ IDEA
 * Поднять БД в Docker - docker-compose.yaml
-```yaml
-version: '3'
-services:
-  database-postgres:
-    image: postgres:14.7
-    ports:
-      - "5432:5432"
-    restart: always
-    environment:
-      POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: postgres
- ```
 * Создать таблицы с помощью скриптов миграции
 * В классе BankappApplication запустить соответствующий main метод.
-
-## Creators
-
-* [Маслов Дмитрий](https://t.me/lucotiel)
-* [Трошенков Петр](https://t.me/p_troshenkov)
-* [Леонов Антон](https://t.me/dzadz1)
-* [Сеидов Саид](https://t.me/saidds)
-* [Кулаков Юрий](https://t.me/yurykulakoff)
-* [Пицевич Андрей](https://t.me/apiats2)
-* [Львова Анна](https://t.me/annalvova)
-```
-code blocks for commands
-```
