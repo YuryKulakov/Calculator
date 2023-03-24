@@ -59,13 +59,13 @@ services:
 
 ## Creators
 
-* Маслов Дмитрий(https://t.me/lucotiel)
-* Леонов Антон(https://t.me/dzadz1)
-* Сеидов Саид(https://t.me/saidds)
-* Трошенков Петр(https://t.me/p_troshenkov)
-* Кулаков Юрий(https://t.me/yurykulakoff)
-* Пицевич Андрей(https://t.me/apiats2)
-* Львова Анна(https://t.me/annalvova)
+* Маслов Дмитрий https://t.me/lucotiel
+* Леонов Антон https://t.me/dzadz1 
+* Сеидов Саид https://t.me/saidds
+* Трошенков Петр https://t.me/p_troshenkov
+* Кулаков Юрий https://t.me/yurykulakoff 
+* Пицевич Андрей https://t.me/apiats2
+* Львова Анна https://t.me/annalvova 
 ```
 code blocks for commands
 ```
