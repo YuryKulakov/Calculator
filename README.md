@@ -39,7 +39,6 @@ REST-приложение на JAVA предназначенное для орг
 
 ## Запуск приложения
 
-* Создать БД с помощью скриптов миграции
 * Поднять БД в Docker - docker-compose.yaml
 ```yaml
 version: '3'
@@ -53,7 +52,7 @@ services:
       POSTGRES_USER: postgres
       POSTGRES_PASSWORD: postgres
  ```
-
+* Создать таблицы с помощью скриптов миграции
 * Запустить приложение
 
 ## Executing program
